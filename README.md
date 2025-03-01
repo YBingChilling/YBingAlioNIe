@@ -1,7 +1,7 @@
 ## Hi There 
 
 # MyWebsite
-Đây là tran Github của tôi
+Đây là trang Github của tôi
 ## Giới thiệu
 Đây là trang giới thiệu của tôi.
 
